@@ -1,0 +1,2 @@
+# ImageProcessing
+Wielowątkowe przetwarzanie obrazów
